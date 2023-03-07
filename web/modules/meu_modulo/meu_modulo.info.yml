@@ -1,0 +1,6 @@
+name: Meu Módulo
+description: Adiciona uma funcionalidade incrível ao meu site.
+type: module
+core_version_requirement: ^10
+package: Custom
+core: 10.x
