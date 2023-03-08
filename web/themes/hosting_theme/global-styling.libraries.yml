@@ -1,0 +1,12 @@
+global-styling:
+  version: 10.x-1.0
+  css:
+    theme:
+      css/*.css: 
+        preprocess: true
+      min/*.css:
+  js:
+    js/*.js: 
+  dependencies:
+    - core/jquery
+    - core/drupal
