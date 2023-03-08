@@ -1,0 +1,5 @@
+# Arquivo de metadados para o Drupal entender que é um template
+name: Tema para empresas que forncem serviços de hospedagem ou links de internet.
+type: theme
+description: 'Tema criado para brincar com o Drupal'
+core_version_requirement: ^10
